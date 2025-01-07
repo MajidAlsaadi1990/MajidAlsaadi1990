@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MajidAlsaadi1990
 - 👀 I’m interested in full stak dev
 - 🌱 I’m currently learning front back development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on web page product 
 - 📫 How to reach me ...
 
 <!---
